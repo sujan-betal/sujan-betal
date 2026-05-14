@@ -102,40 +102,28 @@
     <tr>
       <th align="left">&nbsp;&nbsp;Project</th>
       <th align="left">Description</th>
-      <th align="center">⭐ Stars</th>
-      <th align="center">🍴 Forks</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>&nbsp;&nbsp;<a href="https://github.com/sujan-betal/Food_recipe-app"><b>Food Recipe App</b></a></td>
       <td>A food recipe web app built with JavaScript</td>
-      <td align="center">1</td>
-      <td align="center">0</td>
     </tr>
     <tr>
       <td>&nbsp;&nbsp;<a href="https://github.com/sujan-betal/expense-tracker-fullstack"><b>Expense Tracker</b></a></td>
       <td>Full-stack expense tracking application</td>
-      <td align="center">1</td>
-      <td align="center">0</td>
     </tr>
     <tr>
       <td>&nbsp;&nbsp;<a href="https://github.com/sujan-betal/resturant"><b>Restaurant App</b></a></td>
       <td>Restaurant management web application</td>
-      <td align="center">1</td>
-      <td align="center">0</td>
     </tr>
     <tr>
       <td>&nbsp;&nbsp;<a href="https://github.com/sujan-betal/ELECTRONIC-SHOP"><b>Electronic Shop</b></a></td>
       <td>Web designed e-commerce shop with HTML, CSS & jQuery</td>
-      <td align="center">0</td>
-      <td align="center">0</td>
     </tr>
     <tr>
       <td>&nbsp;&nbsp;<a href="https://github.com/sujan-betal/ATM-MANAGEMENT-SYSTEM"><b>ATM Management System</b></a></td>
       <td>ATM management system application</td>
-      <td align="center">0</td>
-      <td align="center">0</td>
     </tr>
   </tbody>
 </table>
