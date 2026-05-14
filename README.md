@@ -1,7 +1,5 @@
 <!-- ══════════════════════════════════════════════════════════
      SUJAN BETAL — GitHub Profile README
-     Username: sujan-betal  ✅ Already filled in everywhere!
-     Just add your Resume & Instagram links below.
      ══════════════════════════════════════════════════════════ -->
 
 <!-- ╔══════════════════ HEADER BANNER ══════════════════╗ -->
@@ -79,31 +77,13 @@
 
 ---
 
-<!-- ╔══════════════════ GITHUB STATS ══════════════════╗ -->
+<!-- ╔══════════════════ GITHUB STATS — Streak only (works reliably) ══════╗ -->
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="8">
-<tr>
-<td align="center" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sujan-betal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C792EA&icon_color=C792EA&text_color=CDD6F4&rank_icon=github&count_private=true&include_all_commits=true" width="330"/>
-
-</td>
-<td align="center" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujan-betal&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C792EA&text_color=CDD6F4&langs_count=5" width="230"/>
-
-</td>
-<td align="center" valign="top">
-
-<img src="https://streak-stats.demolab.com?user=sujan-betal&theme=tokyonight&hide_border=true&background=0D1117&ring=C792EA&fire=FF6E96&currStreakLabel=C792EA&sideLabels=CDD6F4&dates=CDD6F4" width="330"/>
-
-</td>
-</tr>
-</table>
+<img src="https://streak-stats.demolab.com?user=sujan-betal&theme=tokyonight&hide_border=true&background=0D1117&ring=C792EA&fire=FF6E96&currStreakLabel=C792EA&sideLabels=CDD6F4&dates=CDD6F4" width="500"/>
 
 </div>
 
