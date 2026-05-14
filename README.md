@@ -1,72 +1,48 @@
-<p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sujan-betal&theme=tokyonight&hide_border=true" />
-</p>
+# 👋 Hey! Nice to see you.
+
+Welcome to my GitHub profile!
+
+I'm **Sujan Betal**  
+🚀 Full Stack Developer  
+💻 React | FastAPI | Node.js | MySQL
 
 ---
 
-# 📈 Most Used Languages
+# 🛠 Things I Code With
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujan-betal&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sujan-betal&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
-</p>
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 
 ---
 
-# 🐍 Contribution Snake
+# 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+![Sujan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujan-betal&show_icons=true&theme=default)
 
 ---
 
-# 🚀 Featured Projects
+# 🔥 GitHub Streak
 
-## 🔐 Authentication System
-- JWT Authentication
-- Refresh Token API
-- Role Based Access
-- FastAPI Backend
-
-## 🛒 E-Commerce Backend
-- Product APIs
-- Order Management
-- Payment Integration
-- MySQL Database
-
-## ❤️ Bengali Matrimony Platform
-- Matchmaking System
-- User Profile Management
-- Advanced Search
-- Secure APIs
+![GitHub Streak](https://streak-stats.demolab.com/?user=sujan-betal)
 
 ---
 
-# ⚡ Fun Fact
+# 🚀 Open Source Projects
 
-```javascript
-while(alive) {
-   eat();
-   code();
-   sleep();
-   repeat();
-}
-```
+| Project | Description |
+|---|---|
+| FastAPI Auth | JWT Authentication API |
+| React CRUD | React CRUD Application |
+| Matrimony Project | Bengali Matrimony Platform |
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sujan-betal&label=Profile%20Views&color=2563eb&style=for-the-badge" />
-</p>
+# 🌐 Connect With Me
 
-<p align="center">
-⭐ From <a href="https://github.com/sujan-betal">Sujan Betal</a>
-</p>
+- GitHub: https://github.com/sujan-betal
+- LinkedIn: Add your LinkedIn
+- Email: yourmail@gmail.com
