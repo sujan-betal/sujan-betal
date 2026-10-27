@@ -43,7 +43,6 @@
 <br/>
 
 [![Resume](https://img.shields.io/badge/📄%20RESUME-7B2FBE?style=for-the-badge)](YOUR_RESUME_LINK_HERE)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujan-betal-110245212)&nbsp;
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sujan-betal)&nbsp;
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_HERE)&nbsp;
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujanbetal18@gmail.com)
